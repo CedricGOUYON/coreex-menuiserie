@@ -5,15 +5,9 @@
   /*border: 1px solid black;*/
 }
 body {
-  background-color: blueviolet;
+  background-color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5;
   margin: 0px;
   padding: 0px;
-}
-
-main {
-  p {
-    color: white;
-  }
 }
